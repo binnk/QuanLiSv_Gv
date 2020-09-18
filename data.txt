@@ -1,0 +1,5 @@
+1234, Nguyen Van A, 3, 4, 8
+1235, Nguyen Van B, 7, 8, 8
+1236, Nguyen Van C, 7, 9, 8
+1237, Nguyen Van D, 7, 10, 6
+1238, Nguyen Van E, 7, 8, 9

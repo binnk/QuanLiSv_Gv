@@ -1,0 +1,7 @@
+D:\HK3\LTTQ\BT2\QLSV_GV\QLSV_GV\obj\Debug\QLSV_GV.csprojAssemblyReference.cache
+D:\HK3\LTTQ\BT2\QLSV_GV\QLSV_GV\obj\Debug\QLSV_GV.csproj.CoreCompileInputs.cache
+D:\HK3\LTTQ\BT2\QLSV_GV\QLSV_GV\bin\Debug\QLSV_GV.exe.config
+D:\HK3\LTTQ\BT2\QLSV_GV\QLSV_GV\bin\Debug\QLSV_GV.exe
+D:\HK3\LTTQ\BT2\QLSV_GV\QLSV_GV\bin\Debug\QLSV_GV.pdb
+D:\HK3\LTTQ\BT2\QLSV_GV\QLSV_GV\obj\Debug\QLSV_GV.exe
+D:\HK3\LTTQ\BT2\QLSV_GV\QLSV_GV\obj\Debug\QLSV_GV.pdb
