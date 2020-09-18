@@ -14,7 +14,7 @@ namespace QLSV_GV
         private float pointEng;
 
         //Get/Set method
-        public string IdNumber { get => idNumber; set => idNumber = value; }
+        public override string IdNumber { get => idNumber; set => idNumber = value; }
         public float PointMath { get => pointMath; set => pointMath = value; }
         public float PointLit { get => pointLit; set => pointLit = value; }
         public float PointEng { get => pointEng; set => pointEng = value; }
@@ -41,7 +41,7 @@ namespace QLSV_GV
         {
             Console.Write($"{idNumber}\t");
             base.showInfo();
-            Console.Write($"{pointMath}\t{PointLit}\t{PointEng}\n");
+            Console.WriteLine($"{pointMath}\t{PointLit}\t{PointEng}");
         }
     }
 }

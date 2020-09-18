@@ -11,6 +11,7 @@ namespace QLSV_GV
     {
         protected string fullName;
         public string FullName { get => fullName; set => fullName = value; }
+        public virtual string IdNumber { get; set; }
 
         public virtual void showInfo()
         {
